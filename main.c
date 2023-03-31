@@ -25,7 +25,7 @@ void cargar(int M[5][4],char p[5][20],char v[4][20])
     {
         for (j=0;j<4;j++)
         {
-            printf("Ingrese la cantidad del %s que vendio el %s:",v[j],p[i]);
+            printf("Ingrese la cantidad del %s que vendio el %s:JEJEJEJEJ",v[j],p[i]);
             scanf("%d",&M[i][j]);
         }
     }
